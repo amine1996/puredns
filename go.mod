@@ -1,5 +1,7 @@
 module github.com/d3mondev/puredns/v2
 
+replace github.com/d3mondev/puredns/v2 => ./
+
 go 1.15
 
 require (
